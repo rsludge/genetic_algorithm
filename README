@@ -1,0 +1,3 @@
+Genetic Algorithms implementation.
+To use it you need to inherit classes Genetic and GenePool.
+Usage example in file 8_queens.rb
